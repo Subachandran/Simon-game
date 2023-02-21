@@ -4,7 +4,7 @@ Welcome to Simon Game, an electronic memory game that challenges your ability to
 
 ## How to Play :video_game:
 
-1. Press the start button to begin the game.
+1. Press any key to begin the game.
 2. Watch and listen carefully as Simon produces a sequence of tones and lights up the corresponding buttons.
 3. Repeat the sequence by pressing the buttons in the same order.
 4. If you successfully reproduce the sequence, you will advance to the next level with a longer and more complex sequence.
@@ -18,7 +18,7 @@ Welcome to Simon Game, an electronic memory game that challenges your ability to
 
 ## Getting Started :rocket:
 
-To get started with Simon Game, simply download the code and open the `index.html` file in your web browser. <!-- Alternatively, you can play the game online at [https://simon-game.netlify.app/](https://simon-game.netlify.app/). -->
+To get started with Simon Game, simply download the code and open the `index.html` file in your web browser. Alternatively, you can play the game online at [https://simon-game-jks.onrender.com/](https://simon-game-jks.onrender.com/).
 
 ## Credits :raised_hands:
 
